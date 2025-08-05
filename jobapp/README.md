@@ -1,14 +1,3 @@
----
-title: JobApp
-emoji: 🧠
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 5.40.0
-app_file: app.py
-pinned: false
----
-
 # 🧠 JobApp – AI-Powered Resume Matcher
 
 JobApp is a lightweight AI-based tool built using Gradio that lets you upload a job description and multiple resumes, computes semantic similarity between them, and ranks candidates based on relevance — all with a simple UI.

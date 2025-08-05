@@ -1,0 +1,10 @@
+openai==0.28.0
+gradio
+scikit-learn
+numpy
+pandas
+tqdm
+sentence-transformers
+PyPDF2
+python-docx
+python-magic

@@ -18,21 +18,6 @@ JobApp is a lightweight AI-based tool built using Gradio that lets you upload a 
 - dotenv – For managing API keys
 - FAISS / Cosine Similarity – For document similarity (you may customize)
 
-## 📁 Folder Structure
-
-JobApp/
-│
-├── app.py # Main Gradio app
-├── db.py # DB connection and schema logic
-├── document_processor.py # File parsing and text extraction
-├── embeddings.py # Generates OpenAI embeddings
-├── summarizer.py # Summarizes job descriptions
-├── utils.py # Common helper methods
-├── init_db.py # Database initializer
-├── requirements.txt # Python dependencies
-├── data/ # Resumes and JD files (PDF/text)
-
-
 
 ## ✅ How to Run Locally
 

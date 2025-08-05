@@ -2,6 +2,9 @@
 
 JobApp is a lightweight AI-based tool built using Gradio that lets you upload a job description and multiple resumes, computes semantic similarity between them, and ranks candidates based on relevance — all with a simple UI.
 
+# Approach - 
+I built this app to match resumes with job descriptions using a combination of LLM-based summarization and embedding similarity. Resumes are parsed, summarized, and scored against the job description to find the best fit. A simple Gradio interface displays the ranked results. The goal was to go beyond keyword matching and use contextual relevance to make hiring smarter.
+
 ## 🚀 Features
 - 📄 Upload a Job Description (JD) and multiple resumes
 - 🧠 Auto-summarizes long JDs using OpenAI
